@@ -25,7 +25,7 @@
 
 
 ##  Updata Time:2019_01_11
-**Number:** 01
+**Number:** 01 <br>
 **Name:** 三维点云数据分割研究现状<br>
 **Publication category:**  <br>
 **Publication Name:** 宜宾学院学报 <br>
@@ -36,7 +36,7 @@
   <br>
 
 ##  Updata Time:2019_01_11
-**Number:** 02
+**Number:** 02 <br>
 **Name:** 三维点云场景数据获取及其场景理解关键技术综述 <br>
 **Publication category:** 北大中文核心 <br>
 **Publication Name:** 激光与光电子学进展 <br>
@@ -48,7 +48,7 @@
   <br>
 
 ##  Updata Time:2019_01_11
-**Number:** 03
+**Number:** 03 <br>
 **Name:** Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs <br>
 **Publication category:** IEEE <br>
 **Publication Name:** CVPR 2018 <br>
@@ -61,7 +61,7 @@
   <br>
 
 ##  Updata Time:2019_01_11
-**Number:** 04
+**Number:** 04 <br>
 **Name:** Multi-view Convolutional Neural Networks for 3D Shape Recognition <br>
 **Publication category:** IEEE <br>
 **Publication Name:** ICCV 2015<br>
@@ -73,7 +73,7 @@
  <br>
 
 ##  Updata Time:2019_01_11
-**Number:** 05
+**Number:** 05 <br>
 **Name:** Deep Projective 3D Semantic Segmentation <br>
 **Publication category:** <br>
 **Publication Name:** CAIP2017<br>
@@ -85,7 +85,7 @@
   <br>
 
 ##  Updata Time:2019_01_11
-**Number:** 06
+**Number:** 06 <br>
 **Name:** VoxNet: A 3D Convolutional Neural Network for Real-Time Object Recognition <br>
 **Publication category:** IEEE <br>
 **Publication Name:** IROS 2015<br>
@@ -98,7 +98,7 @@
   <br>
 
 ##  Updata Time:2019_01_11
-**Number:** 07
+**Number:** 07 <br>
 **Name:** PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation  <br>
 **Publication category:** IEEE <br>
 **Publication Name:** CVPR 2017<br>
@@ -110,7 +110,7 @@
   <br>
 
 ##  Updata Time:2019_01_11
-**Number:** 08
+**Number:** 08 <br>
 **Name:** PointNet++: Deep Hierarchical Feature Learning onPoint Sets in a Metric Space  <br>
 **Publication category:**  <br>
 **Publication Name:** AIPS 2017<br>
@@ -124,7 +124,7 @@
   <br>
 
 ##  Updata Time:2019_01_11
-**Number:** 09
+**Number:** 09 <br>
 **Name:** PointCNN: Convolution On X -Transformed Points  <br>
 **Publication category:**  <br>
 **Publication Name:** AIPS 2018<br>
@@ -139,7 +139,7 @@
   <br>
 
 ##  Updata Time:2019_01_11
-**Number:** 10
+**Number:** 10 <br>
 **Name:** SO-Net: Self-Organizing Network for Point Cloud Analysis  <br>
 **Publication category:** IEEE <br>
 **Publication Name:** CVPR 2018<br>
@@ -152,7 +152,7 @@
   <br>
 
 ##  Updata Time:2019_01_11
-**Number:** 11
+**Number:** 11 <br>
 **Name:** SEGCloud: Semantic Segmentation of 3D Point Clouds  <br>
 **Publication category:**  arxiv <br>
 **Publication Name:** Proceedings of the International Conference on 3D Vision<br>
@@ -161,4 +161,4 @@
 **Difficulty:** <br>
 **Result:**  在Semantic3D数据集上的mIOU为0.6310，mAcc为0.7308  <br>
   <br>
----
+
