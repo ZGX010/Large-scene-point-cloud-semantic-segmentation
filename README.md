@@ -23,7 +23,7 @@
 **Result:** on the dataset that cityspaces have 0.4mIoU    <br>
   <br>
 
----
+
 ##  Updata Time:2019_01_11
 **Name:** 三维点云数据分割研究现状<br>
 **Publication category:**  <br>
@@ -33,7 +33,7 @@
 **Difficulty:** 现有算法的自适应能力差，大部分算法对异常点和噪声敏感，且效率也有待提升<br>
 **Result:** 未来研究需充分利用点云数据的语境信息，进一步结合深度学习理论，从而提升点云分割效果  <br>
   <br>
----
+
 ##  Updata Time:2019_01_11
 **Name:** 三维点云场景数据获取及其场景理解关键技术综述 <br>
 **Publication category:** 北大中文核心 <br>
