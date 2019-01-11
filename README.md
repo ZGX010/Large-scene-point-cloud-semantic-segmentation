@@ -25,6 +25,7 @@
 
 
 ##  Updata Time:2019_01_11
+**Number:** 01
 **Name:** 三维点云数据分割研究现状<br>
 **Publication category:**  <br>
 **Publication Name:** 宜宾学院学报 <br>
@@ -35,6 +36,7 @@
   <br>
 
 ##  Updata Time:2019_01_11
+**Number:** 02
 **Name:** 三维点云场景数据获取及其场景理解关键技术综述 <br>
 **Publication category:** 北大中文核心 <br>
 **Publication Name:** 激光与光电子学进展 <br>
@@ -44,8 +46,9 @@
 **Difficulty:** 三维场景理解关键技术存在的问题，尤其是针对具有颜色信息的激光点云的场景理解<br>
 **Result:**    <br>
   <br>
----
+
 ##  Updata Time:2019_01_11
+**Number:** 03
 **Name:** Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs <br>
 **Publication category:** IEEE <br>
 **Publication Name:** CVPR 2018 <br>
@@ -56,8 +59,9 @@
 **Difficulty:** 数据的规模and缺乏类似于图像中的规则网格排列的清晰结构<br>
 **Result:**  在Semantic3D数据集中，mIOU为0.762 ，OA为0.929  <br>
   <br>
----
+
 ##  Updata Time:2019_01_11
+**Number:** 04
 **Name:** Multi-view Convolutional Neural Networks for 3D Shape Recognition <br>
 **Publication category:** IEEE <br>
 **Publication Name:** ICCV 2015<br>
@@ -67,8 +71,9 @@
 对物体的表征能力也不同，对网络的泛化能力有一定的影响<br>
 **Result:**  在Princeton ModelNet dataset 取得89.9% classification accuracy, and 70.1% mAP on retrieval <br>
  <br>
----
+
 ##  Updata Time:2019_01_11
+**Number:** 05
 **Name:** Deep Projective 3D Semantic Segmentation <br>
 **Publication category:** <br>
 **Publication Name:** CAIP2017<br>
@@ -78,8 +83,9 @@
 对物体的表征能力也不同，对网络的泛化能力有一定的影响<br>
 **Result:**  在Semantic3D数据集中，mIOU为0.585，OA为0.889 <br>
   <br>
----
+
 ##  Updata Time:2019_01_11
+**Number:** 06
 **Name:** VoxNet: A 3D Convolutional Neural Network for Real-Time Object Recognition <br>
 **Publication category:** IEEE <br>
 **Publication Name:** IROS 2015<br>
@@ -90,8 +96,9 @@
 对物体的表征能力也不同，对网络的泛化能力有一定的影响<br>
 **Result:**   <br>
   <br>
----
+
 ##  Updata Time:2019_01_11
+**Number:** 07
 **Name:** PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation  <br>
 **Publication category:** IEEE <br>
 **Publication Name:** CVPR 2017<br>
@@ -101,8 +108,9 @@
 无法处理局部特征<br>
 **Result:**  在stanford 3D semantic parsing dataset上 mIoU为0.4771，OA为0.7862  <br>
   <br>
----
+
 ##  Updata Time:2019_01_11
+**Number:** 08
 **Name:** PointNet++: Deep Hierarchical Feature Learning onPoint Sets in a Metric Space  <br>
 **Publication category:**  <br>
 **Publication Name:** AIPS 2017<br>
@@ -114,8 +122,9 @@
 点采样和分组策略没有揭示出入点云的空间分布<br>
 **Result:**  Scannet labeling accuracy 是0.833  <br>
   <br>
----
+
 ##  Updata Time:2019_01_11
+**Number:** 09
 **Name:** PointCNN: Convolution On X -Transformed Points  <br>
 **Publication category:**  <br>
 **Publication Name:** AIPS 2018<br>
@@ -128,8 +137,9 @@
 在S3DIS数据集上mIoU数据集为0.6539
 在ScanNet数据集上的OA为0.851  <br>
   <br>
----
+
 ##  Updata Time:2019_01_11
+**Number:** 10
 **Name:** SO-Net: Self-Organizing Network for Point Cloud Analysis  <br>
 **Publication category:** IEEE <br>
 **Publication Name:** CVPR 2018<br>
@@ -140,8 +150,9 @@
 **Difficulty:** 网络可能无法正确注释细粒度的细节<br>
 **Result:**  在ShapeNetPart dataset数据集中，IoU为0.846,预训练IoU为0.849  <br>
   <br>
----
+
 ##  Updata Time:2019_01_11
+**Number:** 11
 **Name:** SEGCloud: Semantic Segmentation of 3D Point Clouds  <br>
 **Publication category:**  arxiv <br>
 **Publication Name:** Proceedings of the International Conference on 3D Vision<br>
@@ -150,3 +161,4 @@
 **Difficulty:** <br>
 **Result:**  在Semantic3D数据集上的mIOU为0.6310，mAcc为0.7308  <br>
   <br>
+---
