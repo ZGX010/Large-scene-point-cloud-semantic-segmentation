@@ -261,3 +261,29 @@ following an analysis-bysynthesis strategy
 **Result:**  在ShapeNet part dataset mIOU为85.1
 在S3DIS数据集上，mIOU为56.1<br>
   <br>
+  
+##  Updata Time:2019_01_12
+**Number:** 09 <br>
+**Name:** Spherical Convolutional Neural Network for 3D Point Clouds <br>
+**Publication category:**  arXiv <br>
+**Publication Name:**  <br>
+**Issuing Time:** 2018_05 <br>
+**Contribution:** 提出了一种利用球形的三维点云处理神经网络卷积核和空间的八叉树分割 <br>
+**Difficulty:**  处理不规则点云上具有优势，直接实施在点云上，而不是算子<br>
+**Result:** 在ModelNet10数据集上，为93.2
+在ModelNet40数据集上，为85.2 <br>
+  <br>
+
+##  Updata Time:2019_01_12
+**Number:** 10 <br>
+**Name:** Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs <br>
+**Publication category:**  IEEE <br>
+**Publication Name:**  CVPR <br>
+**Issuing Time:** 2017_07_21 <br>
+**Contribution:** formulate a convolution-like operation on graph signals performed in the spatial domain where filter
+weights are conditioned on edge labels (discrete or continuous) and dynamically generated for each specific input sample
+第一个在点云分类上应用图形卷积 <br>
+**Difficulty:** a generalization of CNNs from grids to general graphs is not straightforward  <br>
+**Result:** 在ModelNet10数据集上Mean class accuracy为89.3<br>
+  <br>
+
