@@ -1,6 +1,59 @@
 # Large-scene-point-cloud-semantic-segmentation
 ---
-
+##  Updata Time:2019_01_14
+**Number:** 04 <br>
+**Name:**  基于DBN的车载激光点云路侧多目标提取 <br>
+**Publication category:**  EI <br>
+**Publication Name:** 测绘学报 <br>
+**Issuing Time:**  2018_12  <br>
+**Contribution:**  总结了传统的点云分割方法和深度学习分割方法
+介绍了DBN网络<br>
+**Difficulty:** 仅考虑其整体形态轮廓特征,而没有兼顾目标对象自身点
+云数据属性特征的差异 <br>
+**Result:** 采用准确率，精度，召回率进行评价
+行道树提取结果的准确率达97.31%,召回率达98.30%,精度达95.70%％<br>
+   <br>
+   
+##  Updata Time:2019_01_14
+**Number:** 03 <br>
+**Name:**  车载LiDAR点云路灯提取方法 <br>
+**Publication category:**  EI <br>
+**Publication Name:** 测绘学报 <br>
+**Issuing Time:**  2018_12  <br>
+**Contribution:**  将传统点云提取方法分为：1 基于空间聚类的方法 2 基于几何特征的方法
+3 基于超体元的方法 4 基于模板匹配的方法 四大类<br>
+**Difficulty:**  <br>
+**Result:**  <br>
+   <br>
+   
+##  Updata Time:2019_01_14
+**Number:** 02 <br>
+**Name:** 三维激光扫描点云数据处理研究进展、挑战与趋势 <br>
+**Publication category:** EI <br>
+**Publication Name:** 测绘学报 <br>
+**Issuing Time:** 2017_10 <br>
+**Contribution:** 总结了三维激光扫描系统的现状
+三维点云数据处理的关键进展
+以及在测绘地理信息等领域的典型应用
+并分析了三维点云数据处理面临的挑战,最后展望了三维激光扫描与点云处理的发展趋势 <br>
+**Difficulty:**  <br>
+**Result:** 传统分割方法：特征描述能力不足,分类和目标提取质量无法满足应用需求
+深度学习方法：在三维点云场景的精细分类方面,还面临许多难题:海量三维数据集样本库的建立,适用于三维结构特征学习的神经网
+络模型的构建及其在大场景三维数据解译中的应用 <br>
+   <br>
+   
+##  Updata Time:2019_01_14
+**Number:** 01 <br>
+**Name:** VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection <br>
+**Publication category:** IEEE <br>
+**Publication Name:** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition 2018 <br>
+**Issuing Time:** 2018 <br>
+**Contribution:** 提出了一种新的端到端的用于3D点云检测的深度学习框架：VoxelNet
+提出了一种实施VoxelNet的有效方法这有利于稀疏点结构和体素网格上的高效并行处理 <br>
+**Difficulty:** 扩展3D功能学习网络达到数量级更多的点和3D检测任务<br>
+**Result:** 在KITTI数据集上car，准确率81.97，Pedestrian上，准确率为65.95，Cyclist上，准确率为61.17  <br>
+   <br>
+  
 ##  Updata Time:2019_01_11
 **Name:** Large-scene-point-cloud-semantic-segmentation by CNN <br>
 **Publication category:** SCI <br>
