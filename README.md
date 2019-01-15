@@ -1,5 +1,32 @@
 # Large-scene-point-cloud-semantic-segmentation
 ---  
+
+##  Updata Time:2019_01_15
+**Number:** 34 <br>
+**Name:** 一种用于激光雷达识别车道标线算法  <br>
+**Publication category:** 北大中文核心 <br>
+**Publication Name:** 科学技术与工程<br>
+**Issuing Time:** 2017_06_08<br>
+**Contribution:**  提出了一种用于激光雷达数据帧的车道标线识别算法 <br>
+**Difficulty:**  避免了摄像机自身很难克服的缺陷，如形变和极易受外界环境影响，而且克服了基于被动视觉车道标线识别
+算法受环境( 强光照、弱光照等) 影响、视角较小、受车辆位置影响以及鲁棒性差( 只能识别单一路况) 的缺陷  <br>
+**Result:**  有效抑制了道路周围环境对车道标线识别的干扰，验证了算法的有效性  <br>
+**Link:** 
+   <br>
+
+##  Updata Time:2019_01_15
+**Number:** 33 <br>
+**Name:**  智能车辆3-D点云快速分割方法 <br>
+**Publication category:**  EI<br>
+**Publication Name:** 清华大学学报（自然科学版）<br>
+**Issuing Time:** 2014_11_15 <br>
+**Contribution:**  针对于智能车辆环境感知实时性要求，研究一种基于3-D全景式激光雷达的点云快速分割方法 <br>
+**Difficulty:**  该方法同栅格法相比能够较好地降低过分割与欠分割错误率  <br>
+**Result:**  其中车辆分割准确率约为95%，行人分割准确率约为85%，且耗时不受场景复杂度影
+响，能够较稳定控制在55ms帧左右  <br>
+**Link:** 
+   <br>
+   
 ##  Updata Time:2019_01_15
 **Number:** 32 <br>
 **Name:**  车载激光点云典型地物提取技术研究 <br>
