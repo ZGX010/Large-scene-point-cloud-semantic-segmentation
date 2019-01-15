@@ -102,9 +102,146 @@
 **Difficulty:** 扩展3D功能学习网络达到数量级更多的点和3D检测任务<br>
 **Result:** 在KITTI数据集上car，准确率81.97，Pedestrian上，准确率为65.95，Cyclist上，准确率为61.17  <br>
    <br>
+ 
+ ##  Updata Time:2019_01_12
+**Number:** 21 <br>
+**Name:** Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs <br>
+**Publication category:**  IEEE <br>
+**Publication Name:**  CVPR <br>
+**Issuing Time:** 2017_07_21 <br>
+**Contribution:** formulate a convolution-like operation on graph signals performed in the spatial domain where filter
+weights are conditioned on edge labels (discrete or continuous) and dynamically generated for each specific input sample
+第一个在点云分类上应用图形卷积 <br>
+**Difficulty:** a generalization of CNNs from grids to general graphs is not straightforward  <br>
+**Result:** 在ModelNet10数据集上Mean class accuracy为89.3<br>
+  <br>
+  
+
+##  Updata Time:2019_01_12
+**Number:** 20 <br>
+**Name:** PointSIFT: A SIFT-like Network Module for 3D Point Cloud Semantic Segmentation  <br>
+**Publication category:**  arxiv <br>
+**Publication Name:**  <br>
+**Issuing Time:** 2018_07_02 <br>
+**Contribution:** 提出了一个PointSIFT框架编码不同方向的信息，从而有效的描述点云的形状 <br>
+**Difficulty:** 有效的点云形状描述 <br>
+**Result:** 在ScanNet数据集上准确率为86.2，mIoU为41.5
+在S3DIS数据集上，准确率为88.72，mIoU为70.23<br>
+  <br>
+##  Updata Time:2019_01_12
+**Number:** 19 <br>
+**Name:** PointSIFT: Fast Semantic Segmentation of 3D Point Clouds using a Dense CRF with Learned Parameters  <br>
+**Publication category:**  IEEE <br>
+**Publication Name:**  ICRA <br>
+**Issuing Time:** 2015_05_26 <br>
+**Contribution:** 引入了一种3D点云的快速语言分割框架，基于随机森林分类器 <br>
+**Difficulty:**  <br>
+**Result:** 在NYU Depth datasets上处理数据速度是同类的两倍 <br>
+  <br>
   
 ##  Updata Time:2019_01_12
-**Number:** 21 <br>
+**Number:** 18 <br>
+**Name:** 3D All The Way:Semantic Segmentation of Urban Scenes From Start to End in 3D <br>
+**Publication category:**  IEEE <br>
+**Publication Name:**  ICRA 2015 <br>
+**Issuing Time:** 2015 <br>
+**Contribution:** 为3D城市模型提出了一种新的语义分割方法，从使用简单的3D功能，基于点的使用随机森林进行分类，并使用3D条件随机场平滑
+速度快，能在几分钟内分析整条街道，3D标签可以与最先进的2D分类器的结果相结合，进一步提升业绩 ,完全以3D形式进行端到端的立面建模<br>
+**Difficulty:** 市面上其他方法昂贵，此外，采集的3D数据不完整，包含了噪音，洞和杂乱<br>
+**Result:** 在RueMonge2014数据集低精度数据上的IOU为52.09,时间为15min
+高精度数据上的IOU为56.39，时间为76min<br>
+  <br>
+
+##  Updata Time:2019_01_12
+**Number:** 17 <br>
+**Name:** fast semantic segmentation of 3D point cloud with strongly varying density <br>
+**Publication category:** ISPRS  <br>
+**Publication Name:**  Remote Sensing and Spatial Information Sciences <br>
+**Issuing Time:** 2016_04_01 <br>
+**Contribution:**  描述了一种有效且高效的3D点云逐点语义分类方法。该方法可以处理非结构化和非均匀点云
+它具有计算效率，可以在几分钟内处理具有数百万个点的点云<br>
+**Difficulty:** The core of our method is an efficient strategy to construct approximate multi-scale neighborhoods in
+3D point data <br>
+**Result:** For Paris-Rue-Cassette and Paris-Rue-Madame the proposedmethod reaches 
+overall classification accuracies of 95-98% at a mean class recall 93-99%  <br>
+  <br>
+  
+##  Updata Time:2019_01_12
+**Number:** 16 <br>
+**Name:** 基于多尺度特征和 PointNet 的 LiDAR 点云地物分类方法 <br>
+**Publication category:** 北大中文核心  <br>
+**Publication Name:**  激光与光电子学进展 <br>
+**Issuing Time:** 2018_10_07 <br>
+**Contribution:**  针对 LiDAR 点云数据中复杂场景下地物分类问题，本文提出了一种基于多尺度特征和 PointNet 的
+深度神经网络模型，对 PointNet 提取局部特征能力进行改进，实现 LiDAR 点云中复杂场景下的自动分类 <br>
+**Difficulty:** 对PointNet提取局部特征能力进行了改进 <br>
+**Result:** 在Semantic3 Ddataset数据集上mIOU为67.4，snapnet为59.1
+在Vaihingen在城市数据集上mIOU为34.9,PointNe为32.0 <br>
+  <br>
+  
+##  Updata Time:2019_01_12
+**Number:** 15 <br>
+**Name:**  PU-Net: Point Cloud Upsampling Network<br>
+**Publication category:** IEEE  <br>
+**Publication Name:** CVPR 2018  <br>
+**Issuing Time:**  2018_01_21<br>
+**Contribution:**  提出了一个数据驱动下的点云上采样技术<br>
+**Difficulty:** 数据的稀疏性和不规则性 <br>
+**Result:**   <br>
+  <br>
+  
+ ##  Updata Time:2019_01_12
+**Number:** 14 <br>
+**Name:**  GSPN: Generative Shape Proposal Network for 3D Instance Segmentation in Point Cloud <br>
+**Publication category:** arXiv   <br>
+**Publication Name:**   <br>
+**Issuing Time:** 2018_12_08<br>
+**Contribution:** propose a Generative Shape Proposal Network to tackle 3D object proposal 
+following an analysis-bysynthesis strategy 
+基于区域的PointNe提出灵活的3D实例细分框架 <br>
+**Difficulty:** 在传感器噪声较大和数据不完整的情况下，在杂乱的场景中具有各种比例的对象类别范围， 需要建立
+对广义的语义和客体的理解 <br>
+**Result:** 在ScanNet数据集上mean为30.6 <br>
+  <br>
+  
+##  Updata Time:2019_01_12
+**Number:** 13 <br>
+**Name:** Dynamic Graph CNN for Learning on Point Clouds <br>
+**Publication category:**  arXiv <br>
+**Publication Name:**  <br>
+**Issuing Time:** 2018_01_24 <br>
+**Contribution:** 我们提出了一种新的点云操作，EdgeConv,
+能更好地捕捉局部几何特征 <br>
+**Difficulty:** 几何特征对3D识别任务的重要性 <br>
+**Result:**  在ShapeNet part dataset mIOU为85.1
+在S3DIS数据集上，mIOU为56.1<br>
+  <br>
+  
+##  Updata Time:2019_01_12
+**Number:** 12 <br>
+**Name:** Spherical Convolutional Neural Network for 3D Point Clouds <br>
+**Publication category:**  arXiv <br>
+**Publication Name:**  <br>
+**Issuing Time:** 2018_05 <br>
+**Contribution:** 提出了一种利用球形的三维点云处理神经网络卷积核和空间的八叉树分割 <br>
+**Difficulty:**  处理不规则点云上具有优势，直接实施在点云上，而不是算子<br>
+**Result:** 在ModelNet10数据集上，为93.2
+在ModelNet40数据集上，为85.2 <br>
+  <br>
+
+##  Updata Time:2019_01_11
+**Number:** 11 <br>
+**Name:** SEGCloud: Semantic Segmentation of 3D Point Clouds  <br>
+**Publication category:**  arxiv <br>
+**Publication Name:** Proceedings of the International Conference on 3D Vision<br>
+**Issuing Time:** 2017_10_20 <br>
+**Contribution:** 提出了SegCloud,获得3D点级的端到端框架<br>
+**Difficulty:** <br>
+**Result:**  在Semantic3D数据集上的mIOU为0.6310，mAcc为0.7308  <br>
+  <br>
+
+##  Updata Time:2019_01_11
+**Number:** 10 <br>
 **Name:** 三维点云数据分割研究现状<br>
 **Publication category:**  <br>
 **Publication Name:** 宜宾学院学报 <br>
@@ -114,8 +251,8 @@
 **Result:** 未来研究需充分利用点云数据的语境信息，进一步结合深度学习理论，从而提升点云分割效果  <br>
   <br>
 
-##  Updata Time:2019_01_12
-**Number:** 20 <br>
+##  Updata Time:2019_01_11
+**Number:** 09 <br>
 **Name:** 三维点云场景数据获取及其场景理解关键技术综述 <br>
 **Publication category:** 北大中文核心 <br>
 **Publication Name:** 激光与光电子学进展 <br>
@@ -126,8 +263,8 @@
 **Result:**    <br>
   <br>
 
-##  Updata Time:2019_01_12
-**Number:** 19 <br>
+##  Updata Time:2019_01_11
+**Number:** 08 <br>
 **Name:** Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs <br>
 **Publication category:** IEEE <br>
 **Publication Name:** CVPR 2018 <br>
@@ -139,8 +276,8 @@
 **Result:**  在Semantic3D数据集中，mIOU为0.762 ，OA为0.929  <br>
   <br>
 
-##  Updata Time:2019_01_12
-**Number:** 18 <br>
+##  Updata Time:2019_01_11
+**Number:** 07 <br>
 **Name:** Multi-view Convolutional Neural Networks for 3D Shape Recognition <br>
 **Publication category:** IEEE <br>
 **Publication Name:** ICCV 2015<br>
@@ -151,8 +288,8 @@
 **Result:**  在Princeton ModelNet dataset 取得89.9% classification accuracy, and 70.1% mAP on retrieval <br>
  <br>
 
-##  Updata Time:2019_01_12
-**Number:** 17 <br>
+##  Updata Time:2019_01_11
+**Number:** 06 <br>
 **Name:** Deep Projective 3D Semantic Segmentation <br>
 **Publication category:** <br>
 **Publication Name:** CAIP2017<br>
@@ -163,8 +300,8 @@
 **Result:**  在Semantic3D数据集中，mIOU为0.585，OA为0.889 <br>
   <br>
 
-##  Updata Time:2019_01_12
-**Number:** 16 <br>
+##  Updata Time:2019_01_11
+**Number:** 05 <br>
 **Name:** VoxNet: A 3D Convolutional Neural Network for Real-Time Object Recognition <br>
 **Publication category:** IEEE <br>
 **Publication Name:** IROS 2015<br>
@@ -176,8 +313,8 @@
 **Result:**   <br>
   <br>
 
-##  Updata Time:2019_01_12
-**Number:** 15 <br>
+##  Updata Time:2019_01_11
+**Number:** 04 <br>
 **Name:** PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation  <br>
 **Publication category:** IEEE <br>
 **Publication Name:** CVPR 2017<br>
@@ -188,8 +325,8 @@
 **Result:**  在stanford 3D semantic parsing dataset上 mIoU为0.4771，OA为0.7862  <br>
   <br>
 
-##  Updata Time:2019_01_12
-**Number:** 14 <br>
+##  Updata Time:2019_01_11
+**Number:** 03 <br>
 **Name:** PointNet++: Deep Hierarchical Feature Learning onPoint Sets in a Metric Space  <br>
 **Publication category:**  <br>
 **Publication Name:** AIPS 2017<br>
@@ -202,8 +339,8 @@
 **Result:**  Scannet labeling accuracy 是0.833  <br>
   <br>
 
-##  Updata Time:2019_01_12
-**Number:** 13 <br>
+##  Updata Time:2019_01_11
+**Number:**  02 <br>
 **Name:** PointCNN: Convolution On X -Transformed Points  <br>
 **Publication category:**  <br>
 **Publication Name:** AIPS 2018<br>
@@ -217,8 +354,8 @@
 在ScanNet数据集上的OA为0.851  <br>
   <br>
 
-##  Updata Time:2019_01_12
-**Number:** 12 <br>
+##  Updata Time:2019_01_11
+**Number:** 01 <br>
 **Name:** SO-Net: Self-Organizing Network for Point Cloud Analysis  <br>
 **Publication category:** IEEE <br>
 **Publication Name:** CVPR 2018<br>
@@ -228,142 +365,6 @@
 低计算成本<br>
 **Difficulty:** 网络可能无法正确注释细粒度的细节<br>
 **Result:**  在ShapeNetPart dataset数据集中，IoU为0.846,预训练IoU为0.849  <br>
-  <br>
-
-##  Updata Time:2019_01_12
-**Number:** 11 <br>
-**Name:** SEGCloud: Semantic Segmentation of 3D Point Clouds  <br>
-**Publication category:**  arxiv <br>
-**Publication Name:** Proceedings of the International Conference on 3D Vision<br>
-**Issuing Time:** 2017_10_20 <br>
-**Contribution:** 提出了SegCloud,获得3D点级的端到端框架<br>
-**Difficulty:** <br>
-**Result:**  在Semantic3D数据集上的mIOU为0.6310，mAcc为0.7308  <br>
-  <br>
-
-##  Updata Time:2019_01_11
-**Number:** 10 <br>
-**Name:** PointSIFT: A SIFT-like Network Module for 3D Point Cloud Semantic Segmentation  <br>
-**Publication category:**  arxiv <br>
-**Publication Name:**  <br>
-**Issuing Time:** 2018_07_02 <br>
-**Contribution:** 提出了一个PointSIFT框架编码不同方向的信息，从而有效的描述点云的形状 <br>
-**Difficulty:** 有效的点云形状描述 <br>
-**Result:** 在ScanNet数据集上准确率为86.2，mIoU为41.5
-在S3DIS数据集上，准确率为88.72，mIoU为70.23<br>
-  <br>
-##  Updata Time:2019_01_11
-**Number:** 09 <br>
-**Name:** PointSIFT: Fast Semantic Segmentation of 3D Point Clouds using a Dense CRF with Learned Parameters  <br>
-**Publication category:**  IEEE <br>
-**Publication Name:**  ICRA <br>
-**Issuing Time:** 2015_05_26 <br>
-**Contribution:** 引入了一种3D点云的快速语言分割框架，基于随机森林分类器 <br>
-**Difficulty:**  <br>
-**Result:** 在NYU Depth datasets上处理数据速度是同类的两倍 <br>
-  <br>
-  
-##  Updata Time:2019_01_11
-**Number:** 08 <br>
-**Name:** 3D All The Way:Semantic Segmentation of Urban Scenes From Start to End in 3D <br>
-**Publication category:**  IEEE <br>
-**Publication Name:**  ICRA 2015 <br>
-**Issuing Time:** 2015 <br>
-**Contribution:** 为3D城市模型提出了一种新的语义分割方法，从使用简单的3D功能，基于点的使用随机森林进行分类，并使用3D条件随机场平滑
-速度快，能在几分钟内分析整条街道，3D标签可以与最先进的2D分类器的结果相结合，进一步提升业绩 ,完全以3D形式进行端到端的立面建模<br>
-**Difficulty:** 市面上其他方法昂贵，此外，采集的3D数据不完整，包含了噪音，洞和杂乱<br>
-**Result:** 在RueMonge2014数据集低精度数据上的IOU为52.09,时间为15min
-高精度数据上的IOU为56.39，时间为76min<br>
-  <br>
-
-##  Updata Time:2019_01_11
-**Number:** 07 <br>
-**Name:** fast semantic segmentation of 3D point cloud with strongly varying density <br>
-**Publication category:** ISPRS  <br>
-**Publication Name:**  Remote Sensing and Spatial Information Sciences <br>
-**Issuing Time:** 2016_04_01 <br>
-**Contribution:**  描述了一种有效且高效的3D点云逐点语义分类方法。该方法可以处理非结构化和非均匀点云
-它具有计算效率，可以在几分钟内处理具有数百万个点的点云<br>
-**Difficulty:** The core of our method is an efficient strategy to construct approximate multi-scale neighborhoods in
-3D point data <br>
-**Result:** For Paris-Rue-Cassette and Paris-Rue-Madame the proposedmethod reaches 
-overall classification accuracies of 95-98% at a mean class recall 93-99%  <br>
-  <br>
-  
-##  Updata Time:2019_01_11
-**Number:** 06 <br>
-**Name:** 基于多尺度特征和 PointNet 的 LiDAR 点云地物分类方法 <br>
-**Publication category:** 北大中文核心  <br>
-**Publication Name:**  激光与光电子学进展 <br>
-**Issuing Time:** 2018_10_07 <br>
-**Contribution:**  针对 LiDAR 点云数据中复杂场景下地物分类问题，本文提出了一种基于多尺度特征和 PointNet 的
-深度神经网络模型，对 PointNet 提取局部特征能力进行改进，实现 LiDAR 点云中复杂场景下的自动分类 <br>
-**Difficulty:** 对PointNet提取局部特征能力进行了改进 <br>
-**Result:** 在Semantic3 Ddataset数据集上mIOU为67.4，snapnet为59.1
-在Vaihingen在城市数据集上mIOU为34.9,PointNe为32.0 <br>
-  <br>
-  
-##  Updata Time:2019_01_11
-**Number:** 05 <br>
-**Name:**  PU-Net: Point Cloud Upsampling Network<br>
-**Publication category:** IEEE  <br>
-**Publication Name:** CVPR 2018  <br>
-**Issuing Time:**  2018_01_21<br>
-**Contribution:**  提出了一个数据驱动下的点云上采样技术<br>
-**Difficulty:** 数据的稀疏性和不规则性 <br>
-**Result:**   <br>
-  <br>
-  
- ##  Updata Time:2019_01_11
-**Number:** 04 <br>
-**Name:**  GSPN: Generative Shape Proposal Network for 3D Instance Segmentation in Point Cloud <br>
-**Publication category:** arXiv   <br>
-**Publication Name:**   <br>
-**Issuing Time:** 2018_12_08<br>
-**Contribution:** propose a Generative Shape Proposal Network to tackle 3D object proposal 
-following an analysis-bysynthesis strategy 
-基于区域的PointNe提出灵活的3D实例细分框架 <br>
-**Difficulty:** 在传感器噪声较大和数据不完整的情况下，在杂乱的场景中具有各种比例的对象类别范围， 需要建立
-对广义的语义和客体的理解 <br>
-**Result:** 在ScanNet数据集上mean为30.6 <br>
-  <br>
-  
-##  Updata Time:2019_01_11
-**Number:** 03 <br>
-**Name:** Dynamic Graph CNN for Learning on Point Clouds <br>
-**Publication category:**  arXiv <br>
-**Publication Name:**  <br>
-**Issuing Time:** 2018_01_24 <br>
-**Contribution:** 我们提出了一种新的点云操作，EdgeConv,
-能更好地捕捉局部几何特征 <br>
-**Difficulty:** 几何特征对3D识别任务的重要性 <br>
-**Result:**  在ShapeNet part dataset mIOU为85.1
-在S3DIS数据集上，mIOU为56.1<br>
-  <br>
-  
-##  Updata Time:2019_01_11
-**Number:** 02 <br>
-**Name:** Spherical Convolutional Neural Network for 3D Point Clouds <br>
-**Publication category:**  arXiv <br>
-**Publication Name:**  <br>
-**Issuing Time:** 2018_05 <br>
-**Contribution:** 提出了一种利用球形的三维点云处理神经网络卷积核和空间的八叉树分割 <br>
-**Difficulty:**  处理不规则点云上具有优势，直接实施在点云上，而不是算子<br>
-**Result:** 在ModelNet10数据集上，为93.2
-在ModelNet40数据集上，为85.2 <br>
-  <br>
-
-##  Updata Time:2019_01_11
-**Number:** 01 <br>
-**Name:** Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs <br>
-**Publication category:**  IEEE <br>
-**Publication Name:**  CVPR <br>
-**Issuing Time:** 2017_07_21 <br>
-**Contribution:** formulate a convolution-like operation on graph signals performed in the spatial domain where filter
-weights are conditioned on edge labels (discrete or continuous) and dynamically generated for each specific input sample
-第一个在点云分类上应用图形卷积 <br>
-**Difficulty:** a generalization of CNNs from grids to general graphs is not straightforward  <br>
-**Result:** 在ModelNet10数据集上Mean class accuracy为89.3<br>
   <br>
 ##  Updata Time:2019_01_11
 **Name:** Large-scene-point-cloud-semantic-segmentation by CNN <br>
