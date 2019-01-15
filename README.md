@@ -1,5 +1,41 @@
 # Large-scene-point-cloud-semantic-segmentation
----   
+---  
+##  Updata Time:2019_01_15
+**Number:** 32 <br>
+**Name:**  车载激光点云典型地物提取技术研究 <br>
+**Publication category:**  <br>
+**Publication Name:** 道路勘测（工学版）<br>
+**Issuing Time:** 2017_08_15 <br>
+**Contribution:**  为了提高车载移动激光扫描点云数据处理的自动化程度,提出一种适用于车载点云数据的地物提取方法 <br>
+**Difficulty:** 目前，车载点云数据处理的自动化程度偏低，人工内业作业量较大  <br>
+**Result:**  该方法可有效( 从车载点云数据中) 提取地面、建筑、树木、路灯等不同类型的地物 <br>
+**Link:** 
+   <br>
+   
+##  Updata Time:2019_01_15
+**Number:** 31 <br>
+**Name:**  基于3D激光雷达城市道路边界鲁棒检测算法 <br>
+**Publication category:**  EI<br>
+**Publication Name:**  浙江大学学报（工学版）<br>
+**Issuing Time:**  2017_12_12 <br>
+**Contribution:** 对点云预处理，并采用点云映射的方式快速分割出地面，同时消除路内障碍物以降低数据量  <br>
+**Difficulty:** 该算法适用在道路边界不规则、存在路内障碍物遮挡边界的情况下  <br>
+**Result:**  采用该方法得到的道路边界检测结果依然具有较高的鲁棒性和准确性 <br>
+**Link:** 
+   <br>
+   
+##  Updata Time:2019_01_15
+**Number:** 30 <br>
+**Name:**  考虑局部点云密度的建筑立面自适应分割方法 <br>
+**Publication category:**  北大中文核心<br>
+**Publication Name:**  激光与光电子进展<br>
+**Issuing Time:**  2015_06_10 <br>
+**Contribution:** 提出考虑局部点云密度的建筑立面自适应分割方法,针对局部点云密度变化的点云数据分割方法  <br>
+**Difficulty:** 其他方法直接对三维激光扫描数据进行平面分割，并没有考虑局部点云密度不断变化的特性  <br>
+**Result:**  实验验证了考虑局部点云密度的方法能够较好的对建筑立面进行分割 <br>
+**Link:** 
+   <br>
+   
 ##  Updata Time:2019_01_14
 **Number:** 29 <br>
 **Name:**  Point Cloud Labeling using 3D Convolutional Neural Network <br>
