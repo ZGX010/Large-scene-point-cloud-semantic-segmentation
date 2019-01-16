@@ -1,5 +1,115 @@
 # Large-scene-point-cloud-semantic-segmentation
----  
+--- 
+##  Updata Time:2019_01_16
+**Number:** 42 <br>
+**Name:** 基于改进 RANSAC 算法的屋顶激光点云面片分割方法 <br>
+**Publication category:** 北大中文核心 <br>
+**Publication Name:** 测绘通报 <br>
+**Issuing Time:** 2012-11-25 <br>
+**Contribution:** 将种子点的选取和点到距离的标准差引入RANSAC算法中，对随机抽样一致性算
+法进行了改善<br>
+**Difficulty:** 3D 霍夫变换分割方法是将传统的二维霍夫变换拓展到三维空间，将平面转换到参数空间，根
+据点云生成所有可能的平面，统计平面中点的个数来确定平面，此方法计算量大、速度慢，且容易产生伪平面 <br>
+**Result:** 试验证明该方法能有效地对建筑物屋顶面片进行点云分割 <br>
+**category:** 传统分割_混合分割方法<br>
+**Link:** 
+   <br>
+   
+##  Updata Time:2019_01_16
+**Number:** 41 <br>
+**Name:** 利用RANSAC算法对建筑物立面进行点云分割 <br>
+**Publication category:** 北大中文核心 <br>
+**Publication Name:** 测绘科学 <br>
+**Issuing Time:** 2010-12-30 <br>
+**Contribution:** 将点云的r半径密度引入RANSAC点云分割算法中，结合角度和距离对分割算法进行改进<br>
+**Difficulty:** RANSAC 方法对建筑物立面点云进行分割不够理想 <br>
+**Result:**  <br>
+**category:** 传统分割_混合分割方法<br>
+**Link:** 
+   <br>
+   
+##  Updata Time:2019_01_16
+**Number:** 40 <br>
+**Name:** 点云模型的谱聚类分割 <br>
+**Publication category:** EI <br>
+**Publication Name:** 计算机辅助设计与图形学学报<br>
+**Issuing Time:** 2012-12-15<br>
+**Contribution:** 为了实现点云模型的有意义分割，提出一种基于谱聚类的分割算法<br>
+**Difficulty:** 该算法基于归一化的非对称Laplacian矩阵，避免了构造谱空间时多次归一化造成的误差；
+通过移除掉多余的特征向量，在一个更低维的聚类空间中进行模型分割；基于视觉理论的最
+小值原则，使用归一化的几何矩定义相似矩阵，使分割结果对模型的平移、旋转和缩放变换无关 <br>
+**Result:** 通过实验验证了本文算法的正确性和有效性 <br>
+**category:** 传统分割_基于聚类的分割方法_谱聚类 <br>
+同类型还有MeanShift聚类以及模糊聚类 <br>
+**Link:** 
+   <br>
+   
+##  Updata Time:2019_01_16
+**Number:** 39 <br>
+**Name:** 采用局部凸性和八叉树的点云分割算法 <br>
+**Publication category:** EI <br>
+**Publication Name:** 西安交通大学学报<br>
+**Issuing Time:** 2012-10-10<br>
+**Contribution:** 针对粗糙点云分割效果差的问题,提出了一种采用八叉树和局部凸性的点云分割算法，属于区域分割算法中的层次分解法(这一分类还有KD树)<br>
+**Difficulty:** 可以有效地减少曲面数量，而且在曲面质量上也优于同类算法 <br>
+**Result:** 在处理分布较均匀的闭合点云数据时，能够有效减少最终的曲面个数，且面片的质量与手工分割拟合度达到90%以上 <br>
+**category:** 传统分割_基于区域分割算法_层次分解法_八叉树 
+同类型还有KD树 <br>
+**Link:** 
+   <br>
+   
+##  Updata Time:2019_01_16
+**Number:** 38 <br>
+**Name:** 散乱噪声点云的数据分割  <br>
+**Publication category:** EI <br>
+**Publication Name:** 机械工程学报<br>
+**Issuing Time:** 2007-02-15<br>
+**Contribution:** 提出基于边界曲线微分几何特征的新方法分割散乱噪声点云，属于区域分割算法中的区域增长算法<br>
+**Difficulty:**  <br>
+**Result:** 能够克服噪声影响, 有效提取散乱噪声点云的G1 G2边界。 对复杂曲面模型, 该方法也能够直接获得较好的G2连续边界 <br>
+**category:** 传统分割_基于区域分割算法_区域增长算法 <br>
+**Link:** 
+   <br>
+   
+##  Updata Time:2019_01_16
+**Number:** 37 <br>
+**Name:** 基于3D活动轮廓模型的缺陷点云分割方法  <br>
+**Publication category:** EI <br>
+**Publication Name:** 华中科技大学学报(自然科学版)<br>
+**Issuing Time:** 2011_02_25<br>
+**Contribution:** 提出一种基于3D活动轮廓模型的缺陷点云自动分割方法 ,属于基于边缘的分割算法<br>
+**Difficulty:** 由于噪声影响，点云模型的边缘定位精度差，使得基于边缘的分割算法存在不足 <br>
+**Result:**  能够有效处理点云缺陷并实现大规模散乱点云的快速分割<br>
+**Link:** 
+   <br>
+   
+##  Updata Time:2019_01_16
+**Number:** 36 <br>
+**Name:** 点云模型分割及应用技术综述  <br>
+**Publication category:** 北大中文核心 <br>
+**Publication Name:** 计算机科学<br>
+**Issuing Time:** 2012_04_15<br>
+**Contribution:**  介绍了点云分割的定义、分类和应用情况，分析比较了几类典型的点云分割算法，
+给出了各方法的理论、特点和应用范围 <br>
+**Difficulty:** 点云模型的局部有意义特征物分割与识别工作的进一步研究，与人工智能学科的结合，是将来的一个发展方向；
+如何能在更大程度上对点云模型进行自动剖切、自动分割，仍然是基于点的计算机图形学中的一个热点问题 <br>
+**Result:** <br>
+**category:** 传统分割算法综述
+**Link:** 
+   <br>
+   
+##  Updata Time:2019_01_16
+**Number:** 35 <br>
+**Name:** 基于RGB－D三维点云目标分割  <br>
+**Publication category:**  <br>
+**Publication Name:** 计算机技术与发展<br>
+**Issuing Time:** 2018_07_04<br>
+**Contribution:**  提出一种基于RGB－D的背景点云目标分割方法 <br>
+**Difficulty:** 针对点云模型分割出现的过分割和欠分割等分割不精确问题 <br>
+**Result:** 实验结果表明，背景分割可以有效分割深度值小于背景的前景，结合图像分割有效地避免了过分割和欠分割问题<br>
+**category:** 传统分割算法综述
+**Link:** 
+   <br>
 
 ##  Updata Time:2019_01_15
 **Number:** 34 <br>
