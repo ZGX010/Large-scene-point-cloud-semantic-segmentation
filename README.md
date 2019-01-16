@@ -1,6 +1,45 @@
 # Large-scene-point-cloud-semantic-segmentation
 --- 
 ##  Updata Time:2019_01_16
+**Number:** 45 <br>
+**Name:** 三维网格模型的分割及应用技术综述 <br>
+**Publication category:** EI <br>
+**Publication Name:** 计算机辅助设计与图形学学报 <br>
+**Issuing Time:** 2005-08-20 <br>
+**Contribution:** 三维网格模型分割的定义、分类和应用情况做了简要回顾, 介绍并评价了几种典型的网格模型分割算法<br>
+**Difficulty:** <br>
+**Result:**  <br>
+**category:** 传统分割算法综述<br>
+**Link:** 
+   <br>
+   
+##  Updata Time:2019_01_16
+**Number:** 44 <br>
+**Name:** 三角网格分割综述 <br>
+**Publication category:** 北大中文核心 <br>
+**Publication Name:** 中国图象图形学报 <br>
+**Issuing Time:** 2010-02-15 <br>
+**Contribution:** 对三角网路分割进行了详细的比较和论述。 并结合实际工作, 对网格分割的研究趋势进行了展望<br>
+**Difficulty:** <br>
+**Result:**  <br>
+**category:** 传统分割算法综述<br>
+**Link:** 
+   <br>
+   
+##  Updata Time:2019_01_16
+**Number:** 43 <br>
+**Name:** 基于超体素的LiDAR点云粘连目标分割算法 <br>
+**Publication category:** CA <br>
+**Publication Name:** 集美大学学报(自然科学版) <br>
+**Issuing Time:** 2017-01-28 <br>
+**Contribution:** 针对点云粘连现象，结合三维点云的空间分布和颜色信息，引入过分割方法将
+点云集划分为超体素，利用归一化方法完成粘连区域的目标分割<br>
+**Difficulty:** 针对点云地物分割结果中存在的粘连现象<br>
+**Result:** 该方法对树木之间、树木与建筑物之间的粘连具有良好的分类效果 <br>
+**category:** 传统分割_混合分割方法<br>
+**Link:** 
+   <br>
+##  Updata Time:2019_01_16
 **Number:** 42 <br>
 **Name:** 基于改进 RANSAC 算法的屋顶激光点云面片分割方法 <br>
 **Publication category:** 北大中文核心 <br>
