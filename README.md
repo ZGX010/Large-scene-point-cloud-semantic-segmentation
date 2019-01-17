@@ -1,5 +1,73 @@
 # Large-scene-point-cloud-semantic-segmentation
 --- 
+##  Updata Time:2019_01_17
+**Number:** 50 <br>
+**Name:** 基于移动激光扫描点云特征图像和SVM的建筑物立面半自动提取方法 <br>
+**Publication category:** 北大中文核心 <br>
+**Publication Name:**  地球信息科学学报 <br>
+**Issuing Time:** 2016-07-13 <br>
+**Contribution:** 提出了一种基于移动激光扫描点云的建筑物立面半自动提取算法 <br>
+**Difficulty:** <br>
+**Result:** 本算法能够较好地提取出建筑物立面,提取精度为84%,召回率为90%,数据修正后精度为88%,召回率为91% <br>
+**category:** 机器学习方法 <br>
+**Link:** 
+   <br>
+
+##  Updata Time:2019_01_17
+**Number:** 49 <br>
+**Name:** 基于车载激光点云的街景立面自动提取 <br>
+**Publication category:**  <br>
+**Publication Name:**  测绘与空间地理信息 <br>
+**Issuing Time:** 2018-04-24  <br>
+**Contribution:** 文提出一种适用于车载点云的街景立面的自动提取方法 ，
+总结了点云分割的方法和前人的工作<br>
+**Difficulty:** 该算法对点稀疏的平面的提取效果不理想，对曲面的处理效果远不如平面，过程中会
+将曲面截断或去除 <br>
+**Result:** 在一定程度上提高了数据处理效率 <br>
+**category:**  <br>
+**Link:** 
+   <br>
+ 
+##  Updata Time:2019_01_17
+**Number:** 48 <br>
+**Name:** 基于车载LiDAR点云的地物分类方法的研究 <br>
+**Publication category:**  <br>
+**Publication Name:**  测绘与空间地理信息 <br>
+**Issuing Time:** 2017-02-25 <br>
+**Contribution:** 提出了一种基于最大网格密度的近邻聚类的方法 <br>
+**Difficulty:** 解决混杂着建筑物、地面点以及低等植被的散乱点云问题 <br>
+**Result:** 实现了不同地物的分类，提高了运算效率，降低了错分率 <br>
+**category:** 传统分割方法 <br>
+**Link:** 
+   <br>
+ 
+##  Updata Time:2019_01_17
+**Number:** 47 <br>
+**Name:** 基于车载32线激光雷达点云的车辆目标识别算法 <br>
+**Publication category:** 北大中文核心 <br>
+**Publication Name:** 科学技术与工程 <br>
+**Issuing Time:** 2018-02-18 <br>
+**Contribution:** 提出识别车辆目标新算法 <br>
+**Difficulty:** 道路边界两旁障碍物的干扰和点云数据量 <br>
+**Result:** 该算法有效抑制了道路边界两旁障碍物的干扰，可以准确识别结构化道路区域内的车辆目标 <br>
+**category:** 机器学习方法 <br>
+**Link:** 
+   <br>
+
+##  Updata Time:2019_01_17
+**Number:** 46 <br>
+**Name:**  基于Gradient Boosting的车载LiDAR点云分类<br>
+**Publication category:**  <br>
+**Publication Name:**  地理信息世界 <br>
+**Issuing Time:**  2016-06-25 <br>
+**Contribution:** 提出了一种基于Gradient Boosting的点云自动分类方法 <br>
+**Difficulty:** 基于预定义规则的方法往往难以适应不同数据。而半自动的方法尽管
+由于人工干预能够取得较好的分类结果，但效率较低 <br>
+**Result:** 选取另一较大区域的点云共312W点作为测试数据集，分类结果总体准确率达到了93.38%，耗时631s <br>
+**category:** 机器学习方法 <br>
+**Link:** 
+   <br>
+   
 ##  Updata Time:2019_01_16
 **Number:** 45 <br>
 **Name:** 三维网格模型的分割及应用技术综述 <br>
