@@ -1,6 +1,19 @@
 # Large-scene-point-cloud-semantic-segmentation
 ---
 ##  Updata Time:2019_01_18
+**Number:** 56<br>
+**Name:** 三维点云数据分割原理及应用 <br>
+**Publication category:** <br>
+**Publication Name:** 科技资讯 <br>
+**Issuing Time:** 2017-08-23 <br>
+**Contribution:** 较全面的总结了传统分割算法 <br>
+**Difficulty:** <br>
+**Result:**  <br>
+**category:** 分割算法综述 <br>
+**Link:** <br>
+   <br>
+
+##  Updata Time:2019_01_18
 **Number:** 55 <br>
 **Name:** 基于特征线的点云数据分割算法 <br>
 **Publication category:** <br>
