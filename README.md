@@ -14,7 +14,6 @@
 **Link:** <br>
    <br>
 
-##  Updata Time:2019_01_18
 **Number:** 56<br>
 **Name:** 三维点云数据分割原理及应用 <br>
 **Publication category:** <br>
@@ -27,7 +26,6 @@
 **Link:** <br>
    <br>
 
-##  Updata Time:2019_01_18
 **Number:** 55 <br>
 **Name:** 基于特征线的点云数据分割算法 <br>
 **Publication category:** <br>
@@ -41,7 +39,6 @@
 **Link:** <br>
    <br>
 
-##  Updata Time:2019_01_18
 **Number:** 54<br>
 **Name:** 一种融合多特征聚类集成的室内点云分割方法  <br>
 **Publication category:** 北大中文核心 <br>
@@ -55,7 +52,6 @@
 **Link:** <br>
    <br>
 
-##  Updata Time:2019_01_18
 **Number:** 53 <br>
 **Name:** 基于改进的区域生长三维点云分割 <br>
 **Publication category:** 北大中文核心 <br>
@@ -69,7 +65,6 @@
 **Link:** <br>
    <br>
 
-##  Updata Time:2019_01_18
 **Number:** 52 <br>
 **Name:** 基于多光谱LiDAR数据的道路中心线提取 <br>
 **Publication category:** 北大中文核心 <br>
@@ -81,7 +76,6 @@
 **Link:** <br>
    <br>
    
-##  Updata Time:2019_01_18
 **Number:** 51 <br>
 **Name:** 基于地物特征提取的车载激光点云数据分类方法 <br>
 **Publication category:** 北大中文核心<br>
@@ -313,7 +307,6 @@
 **Link:** <br>
    <br>
 
-##  Updata Time:2019_01_15
 **Number:** 33 <br>
 **Name:**  智能车辆3-D点云快速分割方法 <br>
 **Publication category:**  EI<br>
@@ -326,7 +319,6 @@
 **Link:** <br>
    <br>
    
-##  Updata Time:2019_01_15
 **Number:** 32 <br>
 **Name:**  车载激光点云典型地物提取技术研究 <br>
 **Publication category:**  <br>
@@ -338,7 +330,6 @@
 **Link:** <br>
    <br>
    
-##  Updata Time:2019_01_15
 **Number:** 31 <br>
 **Name:**  基于3D激光雷达城市道路边界鲁棒检测算法 <br>
 **Publication category:**  EI<br>
@@ -350,7 +341,6 @@
 **Link:** <br>
    <br>
    
-##  Updata Time:2019_01_15
 **Number:** 30 <br>
 **Name:**  考虑局部点云密度的建筑立面自适应分割方法 <br>
 **Publication category:**  北大中文核心<br>
@@ -375,7 +365,6 @@
 **Result:** 汽车和飞机准确率高于95％，而建筑物，电线杆和电线的精度在80％到90％之间，树木的准确度略低于80％  <br>
    <br>
    
-##  Updata Time:2019_01_14
 **Number:** 28 <br>
 **Name:**  面向对象的倾斜摄影测量点云分类方法 <br>
 **Publication category:** 北大中文核心 <br>
@@ -387,7 +376,6 @@
 **Result:** 总体分类精度分别达到91.2%和88.1%,比基于单点的分类方法分别提高了2.3%和8.2%  <br>
    <br>
    
-##  Updata Time:2019_01_14
 **Number:** 27 <br>
 **Name:**  A shape-based segmentation method for mobile laser scanning point clouds <br>
 **Publication category:** ScienceDirect <br>
@@ -398,7 +386,6 @@
 **Result:**  <br>
    <br>
    
-##  Updata Time:2019_01_14
 **Number:** 26 <br>
 **Name:**  车载激光扫描数据中多类目标的层次化提取方法 <br>
 **Publication category:**  EI <br>
@@ -411,7 +398,6 @@
 **Result:** 提取出建筑物、地面、路灯、树木、电线杆、交通标志牌、汽车、围墙等多类目标，目标提取的总体精度为92.3% <br>
    <br>
    
-##  Updata Time:2019_01_14
 **Number:** 25 <br>
 **Name:**  基于DBN的车载激光点云路侧多目标提取 <br>
 **Publication category:**  EI <br>
@@ -425,7 +411,6 @@
 行道树提取结果的准确率达97.31%,召回率达98.30%,精度达95.70%％<br>
    <br>
    
-##  Updata Time:2019_01_14
 **Number:** 24 <br>
 **Name:**  车载LiDAR点云路灯提取方法 <br>
 **Publication category:**  EI <br>
@@ -437,7 +422,6 @@
 **Result:**  <br>
    <br>
    
-##  Updata Time:2019_01_14
 **Number:** 23 <br>
 **Name:** 三维激光扫描点云数据处理研究进展、挑战与趋势 <br>
 **Publication category:** EI <br>
@@ -453,7 +437,6 @@
 络模型的构建及其在大场景三维数据解译中的应用 <br>
    <br>
    
-##  Updata Time:2019_01_14
 **Number:** 22 <br>
 **Name:** VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection <br>
 **Publication category:** IEEE <br>
@@ -478,8 +461,6 @@ weights are conditioned on edge labels (discrete or continuous) and dynamically 
 **Result:** 在ModelNet10数据集上Mean class accuracy为89.3<br>
   <br>
   
-
-##  Updata Time:2019_01_12
 **Number:** 20 <br>
 **Name:** PointSIFT: A SIFT-like Network Module for 3D Point Cloud Semantic Segmentation  <br>
 **Publication category:**  arxiv <br>
@@ -490,7 +471,7 @@ weights are conditioned on edge labels (discrete or continuous) and dynamically 
 **Result:** 在ScanNet数据集上准确率为86.2，mIoU为41.5
 在S3DIS数据集上，准确率为88.72，mIoU为70.23<br>
   <br>
-##  Updata Time:2019_01_12
+  
 **Number:** 19 <br>
 **Name:** PointSIFT: Fast Semantic Segmentation of 3D Point Clouds using a Dense CRF with Learned Parameters  <br>
 **Publication category:**  IEEE <br>
@@ -501,7 +482,6 @@ weights are conditioned on edge labels (discrete or continuous) and dynamically 
 **Result:** 在NYU Depth datasets上处理数据速度是同类的两倍 <br>
   <br>
   
-##  Updata Time:2019_01_12
 **Number:** 18 <br>
 **Name:** 3D All The Way:Semantic Segmentation of Urban Scenes From Start to End in 3D <br>
 **Publication category:**  IEEE <br>
@@ -514,7 +494,6 @@ weights are conditioned on edge labels (discrete or continuous) and dynamically 
 高精度数据上的IOU为56.39，时间为76min<br>
   <br>
 
-##  Updata Time:2019_01_12
 **Number:** 17 <br>
 **Name:** fast semantic segmentation of 3D point cloud with strongly varying density <br>
 **Publication category:** ISPRS  <br>
@@ -528,7 +507,6 @@ weights are conditioned on edge labels (discrete or continuous) and dynamically 
 overall classification accuracies of 95-98% at a mean class recall 93-99%  <br>
   <br>
   
-##  Updata Time:2019_01_12
 **Number:** 16 <br>
 **Name:** 基于多尺度特征和 PointNet 的 LiDAR 点云地物分类方法 <br>
 **Publication category:** 北大中文核心  <br>
@@ -541,7 +519,6 @@ overall classification accuracies of 95-98% at a mean class recall 93-99%  <br>
 在Vaihingen在城市数据集上mIOU为34.9,PointNe为32.0 <br>
   <br>
   
-##  Updata Time:2019_01_12
 **Number:** 15 <br>
 **Name:**  PU-Net: Point Cloud Upsampling Network<br>
 **Publication category:** IEEE  <br>
@@ -552,7 +529,6 @@ overall classification accuracies of 95-98% at a mean class recall 93-99%  <br>
 **Result:**   <br>
   <br>
   
- ##  Updata Time:2019_01_12
 **Number:** 14 <br>
 **Name:**  GSPN: Generative Shape Proposal Network for 3D Instance Segmentation in Point Cloud <br>
 **Publication category:** arXiv   <br>
@@ -566,7 +542,6 @@ following an analysis-bysynthesis strategy
 **Result:** 在ScanNet数据集上mean为30.6 <br>
   <br>
   
-##  Updata Time:2019_01_12
 **Number:** 13 <br>
 **Name:** Dynamic Graph CNN for Learning on Point Clouds <br>
 **Publication category:**  arXiv <br>
@@ -579,7 +554,6 @@ following an analysis-bysynthesis strategy
 在S3DIS数据集上，mIOU为56.1<br>
   <br>
   
-##  Updata Time:2019_01_12
 **Number:** 12 <br>
 **Name:** Spherical Convolutional Neural Network for 3D Point Clouds <br>
 **Publication category:**  arXiv <br>
@@ -602,7 +576,6 @@ following an analysis-bysynthesis strategy
 **Result:**  在Semantic3D数据集上的mIOU为0.6310，mAcc为0.7308  <br>
   <br>
 
-##  Updata Time:2019_01_11
 **Number:** 10 <br>
 **Name:** 三维点云数据分割研究现状<br>
 **Publication category:**  <br>
@@ -613,7 +586,6 @@ following an analysis-bysynthesis strategy
 **Result:** 未来研究需充分利用点云数据的语境信息，进一步结合深度学习理论，从而提升点云分割效果  <br>
   <br>
 
-##  Updata Time:2019_01_11
 **Number:** 09 <br>
 **Name:** 三维点云场景数据获取及其场景理解关键技术综述 <br>
 **Publication category:** 北大中文核心 <br>
@@ -625,7 +597,6 @@ following an analysis-bysynthesis strategy
 **Result:**    <br>
   <br>
 
-##  Updata Time:2019_01_11
 **Number:** 08 <br>
 **Name:** Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs <br>
 **Publication category:** IEEE <br>
@@ -638,7 +609,6 @@ following an analysis-bysynthesis strategy
 **Result:**  在Semantic3D数据集中，mIOU为0.762 ，OA为0.929  <br>
   <br>
 
-##  Updata Time:2019_01_11
 **Number:** 07 <br>
 **Name:** Multi-view Convolutional Neural Networks for 3D Shape Recognition <br>
 **Publication category:** IEEE <br>
@@ -650,7 +620,6 @@ following an analysis-bysynthesis strategy
 **Result:**  在Princeton ModelNet dataset 取得89.9% classification accuracy, and 70.1% mAP on retrieval <br>
  <br>
 
-##  Updata Time:2019_01_11
 **Number:** 06 <br>
 **Name:** Deep Projective 3D Semantic Segmentation <br>
 **Publication category:** <br>
@@ -662,7 +631,6 @@ following an analysis-bysynthesis strategy
 **Result:**  在Semantic3D数据集中，mIOU为0.585，OA为0.889 <br>
   <br>
 
-##  Updata Time:2019_01_11
 **Number:** 05 <br>
 **Name:** VoxNet: A 3D Convolutional Neural Network for Real-Time Object Recognition <br>
 **Publication category:** IEEE <br>
@@ -675,7 +643,6 @@ following an analysis-bysynthesis strategy
 **Result:**   <br>
   <br>
 
-##  Updata Time:2019_01_11
 **Number:** 04 <br>
 **Name:** PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation  <br>
 **Publication category:** IEEE <br>
@@ -687,7 +654,6 @@ following an analysis-bysynthesis strategy
 **Result:**  在stanford 3D semantic parsing dataset上 mIoU为0.4771，OA为0.7862  <br>
   <br>
 
-##  Updata Time:2019_01_11
 **Number:** 03 <br>
 **Name:** PointNet++: Deep Hierarchical Feature Learning onPoint Sets in a Metric Space  <br>
 **Publication category:**  <br>
@@ -701,7 +667,6 @@ following an analysis-bysynthesis strategy
 **Result:**  Scannet labeling accuracy 是0.833  <br>
   <br>
 
-##  Updata Time:2019_01_11
 **Number:**  02 <br>
 **Name:** PointCNN: Convolution On X -Transformed Points  <br>
 **Publication category:**  <br>
@@ -715,8 +680,7 @@ following an analysis-bysynthesis strategy
 在S3DIS数据集上mIoU数据集为0.6539
 在ScanNet数据集上的OA为0.851  <br>
   <br>
-
-##  Updata Time:2019_01_11
+  
 **Number:** 01 <br>
 **Name:** SO-Net: Self-Organizing Network for Point Cloud Analysis  <br>
 **Publication category:** IEEE <br>
@@ -728,7 +692,7 @@ following an analysis-bysynthesis strategy
 **Difficulty:** 网络可能无法正确注释细粒度的细节<br>
 **Result:**  在ShapeNetPart dataset数据集中，IoU为0.846,预训练IoU为0.849  <br>
   <br>
-##  Updata Time:2019_01_11
+
 **Name:** Large-scene-point-cloud-semantic-segmentation by CNN <br>
 **Publication category:** SCI <br>
 **Publication Name:** computer <br>
