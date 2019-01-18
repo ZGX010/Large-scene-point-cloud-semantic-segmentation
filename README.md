@@ -1,6 +1,20 @@
 # Large-scene-point-cloud-semantic-segmentation
 ---
 ##  Updata Time:2019_01_18
+**Number:** 57<br>
+**Name:** 面向点云的三维物体识别方法综述 <br>
+**Publication category:** 北大中文核心<br>
+**Publication Name:** 计算机科学 <br>
+**Issuing Time:** 2017-09-15 <br>
+**Contribution:** 对近年来面向点云数据的三维物体识别方法进行归纳和总结；然后，对已有方法
+的优势及缺点进行分析；最后，指出点云物体识别中所面临的挑战及进一步的研究方向 <br>
+**Difficulty:** <br>
+**Result:**  <br>
+**category:** 综述 <br>
+**Link:** <br>
+   <br>
+
+##  Updata Time:2019_01_18
 **Number:** 56<br>
 **Name:** 三维点云数据分割原理及应用 <br>
 **Publication category:** <br>
