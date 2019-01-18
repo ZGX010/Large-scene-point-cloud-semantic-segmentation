@@ -13,7 +13,6 @@
 **Link:** 
    <br>
 
-##  Updata Time:2019_01_17
 **Number:** 49 <br>
 **Name:** 基于车载激光点云的街景立面自动提取 <br>
 **Publication category:**  <br>
@@ -28,7 +27,6 @@
 **Link:** 
    <br>
  
-##  Updata Time:2019_01_17
 **Number:** 48 <br>
 **Name:** 基于车载LiDAR点云的地物分类方法的研究 <br>
 **Publication category:**  <br>
@@ -40,8 +38,7 @@
 **category:** 传统分割方法 <br>
 **Link:** 
    <br>
- 
-##  Updata Time:2019_01_17
+
 **Number:** 47 <br>
 **Name:** 基于车载32线激光雷达点云的车辆目标识别算法 <br>
 **Publication category:** 北大中文核心 <br>
@@ -54,7 +51,6 @@
 **Link:** 
    <br>
 
-##  Updata Time:2019_01_17
 **Number:** 46 <br>
 **Name:**  基于Gradient Boosting的车载LiDAR点云分类<br>
 **Publication category:**  <br>
@@ -81,7 +77,6 @@
 **Link:** 
    <br>
    
-##  Updata Time:2019_01_16
 **Number:** 44 <br>
 **Name:** 三角网格分割综述 <br>
 **Publication category:** 北大中文核心 <br>
@@ -94,7 +89,6 @@
 **Link:** 
    <br>
    
-##  Updata Time:2019_01_16
 **Number:** 43 <br>
 **Name:** 基于超体素的LiDAR点云粘连目标分割算法 <br>
 **Publication category:** CA <br>
@@ -107,7 +101,7 @@
 **category:** 传统分割_混合分割方法<br>
 **Link:** 
    <br>
-##  Updata Time:2019_01_16
+
 **Number:** 42 <br>
 **Name:** 基于改进 RANSAC 算法的屋顶激光点云面片分割方法 <br>
 **Publication category:** 北大中文核心 <br>
@@ -122,7 +116,6 @@
 **Link:** 
    <br>
    
-##  Updata Time:2019_01_16
 **Number:** 41 <br>
 **Name:** 利用RANSAC算法对建筑物立面进行点云分割 <br>
 **Publication category:** 北大中文核心 <br>
@@ -135,7 +128,6 @@
 **Link:** 
    <br>
    
-##  Updata Time:2019_01_16
 **Number:** 40 <br>
 **Name:** 点云模型的谱聚类分割 <br>
 **Publication category:** EI <br>
@@ -151,7 +143,6 @@
 **Link:** 
    <br>
    
-##  Updata Time:2019_01_16
 **Number:** 39 <br>
 **Name:** 采用局部凸性和八叉树的点云分割算法 <br>
 **Publication category:** EI <br>
@@ -165,7 +156,6 @@
 **Link:** 
    <br>
    
-##  Updata Time:2019_01_16
 **Number:** 38 <br>
 **Name:** 散乱噪声点云的数据分割  <br>
 **Publication category:** EI <br>
@@ -177,8 +167,7 @@
 **category:** 传统分割_基于区域分割算法_区域增长算法 <br>
 **Link:** 
    <br>
-   
-##  Updata Time:2019_01_16
+
 **Number:** 37 <br>
 **Name:** 基于3D活动轮廓模型的缺陷点云分割方法  <br>
 **Publication category:** EI <br>
@@ -190,7 +179,6 @@
 **Link:** 
    <br>
    
-##  Updata Time:2019_01_16
 **Number:** 36 <br>
 **Name:** 点云模型分割及应用技术综述  <br>
 **Publication category:** 北大中文核心 <br>
@@ -205,7 +193,6 @@
 **Link:** 
    <br>
    
-##  Updata Time:2019_01_16
 **Number:** 35 <br>
 **Name:** 基于RGB－D三维点云目标分割  <br>
 **Publication category:**  <br>
