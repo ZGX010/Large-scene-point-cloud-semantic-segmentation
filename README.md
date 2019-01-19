@@ -1,5 +1,74 @@
 # Large-scene-point-cloud-semantic-segmentation
 ---
+##  Updata Time:2019_01_19
+**Number:** 62 <br>
+**Name:** 大场景内建筑物点云提取及平面分割算法 <br>
+**Publication category:** EI <br>
+**Publication Name:** 武汉大学学报(信息科学版) <br>
+**Issuing Time:** 2013-05-05 <br>
+**Contribution:** 提出了基于八叉树遴选种子，将区域增长与
+随机采样一致相结合的点云平面分割方法 <br>
+**Difficulty:** 解决区域增长方法中种子平面的自动可靠选择问题 <br>
+**Result:** 同时提高点云平面分割效率与可靠性 <br>
+**category:** 传统分割算法 <br>
+**Link:** <br>
+   <br>
+   
+**Number:** 61 <br>
+**Name:** 大场景内建筑物点云提取及平面分割算法 <br>
+**Publication category:** EI <br>
+**Publication Name:** 中国激光 <br>
+**Issuing Time:** 2015-09-10 <br>
+**Contribution:** 提出了一种利用半径渐变的主成分分析法确定局部特征，并依此完成
+区域生长进而对建筑物进行平面分割和优化的新方法 <br>
+**Difficulty:** 解决了传统区域增长法不稳定的问题 <br>
+**Result:** 能快速有效提取大场景中的建筑物目标进行分割，提高了建筑物点云平面分割的精确性和可靠性 <br>
+**category:** 传统分割算法 <br>
+**Link:** <br>
+   <br>
+   
+**Number:** 60 <br>
+**Name:** 铁路场景三维点云分割与分类识别算法 <br>
+**Publication category:** EI <br>
+**Publication Name:** 仪器仪表学报 <br>
+**Issuing Time:** 2017-09-15 <br>
+**Contribution:** 提出基于法线方向一致性的区域生长分割算法
+进行铁路场景点云分割，有效解决了复杂场景单物体点云分割问题，
+总结了前人的分割算法 <br>
+**Difficulty:**  <br>
+**Result:** 本文算法对铁路场景3类典型物体点云的分类识别准确率
+均在90%以上，能够满足铁路重点地段异物侵入监测的需求 <br>
+**category:** 传统分割算法 <br>
+**Link:** <br>
+   <br>
+
+**Number:** 59<br>
+**Name:** 基于自适应角度的三维点云分割方法 <br>
+**Publication category:** 北大中文核心 <br>
+**Publication Name:** 计算机科学 <br>
+**Issuing Time:** 2017-11-15 <br>
+**Contribution:** 提出一种基于自适应角度的三维点云切割算法，
+总结了传统分割算法的前人工作<br>
+**Difficulty:** 算法的关键环节在于确认模型的最佳
+投射角度方向及角度大小，很难确定投射角度 <br>
+**Result:** 对实际生产线上的应用进行了实验验证，证明了该方法是本可行 <br>
+**category:** 传统分割算法 <br>
+**Link:** <br>
+   <br>
+   
+**Number:** 58<br>
+**Name:** 基于三维形状匹配的点云分割 <br>
+**Publication category:** 北大中文核心 <br>
+**Publication Name:** 激光与光电子学进展 <br>
+**Issuing Time:** 2018-07-15 <br>
+**Contribution:** 创建了基于形状的点云数据分割方法 (ShapeSegment)，
+总结了点云分割算法的前人工作 <br>
+**Difficulty:** 指导点云数据的精简和重建，从而提高点云数据的计算速度和准确度<br>
+**Result:** 可以有效的提取出被测对象的形状特征 <br>
+**category:** 传统分割算法<br>
+**Link:** <br>
+   <br>
+   
 ##  Updata Time:2019_01_18
 **Number:** 57<br>
 **Name:** 面向点云的三维物体识别方法综述 <br>
