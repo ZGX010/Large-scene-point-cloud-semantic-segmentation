@@ -1,8 +1,35 @@
 # Large-scene-point-cloud-semantic-segmentation
 ---
 ##  Updata Time:2019_01_19
+**Number:** 64 <br>
+**Name:** 平面舱壁类型的船舱点云分割方法 <br>
+**Publication category:** EI <br>
+**Publication Name:** 中国激光 <br>
+**Issuing Time:** 2017-07-06 <br>
+**Contribution:** 提出了一种适用于平面舱壁类型船舱点云的分割方法 <br>
+**Difficulty:** 针对船舱复杂构件点云提取存在人工成本高、效率低的问题 <br>
+**Result:** 该方法能够从不同结构的船舱散乱点云中快速、准确地自动分割出主要构
+件点云，可靠性强，具有较高的实用价值 <br>
+**category:** 传统分割算法 <br>
+**Link:** <br>
+   <br>
+
+**Number:** 63 <br>
+**Name:** 一种密集管道点云数据自动分割算法 <br>
+**Publication category:** EI <br>
+**Publication Name:** 中国激光 <br>
+**Issuing Time:** 2018-07-26 <br>
+**Contribution:** 提出了一种针对密集圆形管道点云数据的自动分割算法 <br>
+**Difficulty:** 在快速采集数据的同时带来了数据冗余的问题，而点云数据分割
+方法可以有效兼顾数据采集速度和数据量的问题 <br>
+**Result:** 提出的自动分割算法在处理大小为６ｍ×１２ｍ×１６ｍ 的点云空间数据时，
+４线程并行计算仅耗时９ｓ，精确率达到９０％以上 <br>
+**category:** 传统分割算法 <br>
+**Link:** <br>
+   <br>
+
 **Number:** 62 <br>
-**Name:** 大场景内建筑物点云提取及平面分割算法 <br>
+**Name:** 一种新的点云平面混合分割方法 <br>
 **Publication category:** EI <br>
 **Publication Name:** 武汉大学学报(信息科学版) <br>
 **Issuing Time:** 2013-05-05 <br>
