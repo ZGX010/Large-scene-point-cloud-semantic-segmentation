@@ -2,6 +2,101 @@
 ---
 ##  Updata Time:2019_01_21
 
+**Number:** 74 <br>
+**Name:** OctNet: Learning Deep 3D Representations at High Resolutions <br>
+**Publication category:** arxiv <br>
+**Publication Name:** CVPR <br>
+**Issuing Time:** 2016_11_15 <br>
+**Contribution:** 提出了OctNet神经网络架构<br>
+**Difficulty:** <br>
+**Result:** IOU为59.2 <br>
+**category:** 深度学习算法：基于体素， <br>
+**Link:** <br>
+   <br>
+**Number:** 73 <br>
+**Name:** FusionNet: Deep Convolutional Networks on Graph-Structured Data <br>
+**Publication category:**  <br>
+**Publication Name:** Arxiv <br>
+**Issuing Time:** 2015_06_16 <br>
+**Contribution:** 提出无监督和新的监督图估计策略与监督图形卷积相结合 <br>
+**Difficulty:** <br>
+**Result:** 在ImageNet数据集上，准确度为71.998 <br>
+**category:** 深度学习算法：Non-Euclidean networks，将输入表面表示为图形（例如，多边形网格）
+或基于点的连通图），将图转换为它的频谱表示，然后执行卷积谱域 <br>
+**Link:** <br>
+   <br>
+
+**Number:** 72 <br>
+**Name:** FusionNet: 3D Object Classification Using Multiple Data Representations <br>
+**Publication category:**  <br>
+**Publication Name:** CVPR <br>
+**Issuing Time:** 2016_07_19 <br>
+**Contribution:** 结合了形状体积和多视图的分类分数网络 <br>
+**Difficulty:** <br>
+**Result:** 在ModelNet40数据集上，准确度为90.80 <br>
+**category:** 深度学习算法：2D-3D联合网络 <br>
+**Link:** <br>
+   <br>
+
+**Number:** 71 <br>
+**Name:** 3D Object Classification via Spherical Projections <br>
+**Publication category:** IEEE <br>
+**Publication Name:** 3D Vision 2017 <br>
+**Issuing Time:** 2017_10_10<br>
+**Contribution:** 介绍了一种新的3D对象分类方法，主要想法是将3D对象投影到以重心为中心并
+形成的球形域神经网络对球形投影进行分类 <br>
+**Difficulty:** 占用的分辨率网格很低<br>
+**Result:** 在ModelNet40数据集上准确率为94.24 <br>
+**category:** 深度学习算法：多视图网络
+缺点：2D投影可能会导致由于自我遮挡而导致的表面信息损失，而观点选择通常通过启发式方法进行
+对于给定的任务不一定是最佳的，但是球面结合了多视图和3D <br>
+**Link:** <br>
+   <br>
+
+**Number:** 70 <br>
+**Name:** 3D Shape Segmentation with Projective Convolutional Networks <br>
+**Publication category:** IEEE <br>
+**Publication Name:** CVPR <br>
+**Issuing Time:** 2017_07_21<br>
+**Contribution:** 介绍了一种深度学习分割架构 <br>
+**Difficulty:** 现有的语义推理技术对于3D几何形状数据大多依赖于启发式处理阶段和手工调整的几何描述符<br>
+**Result:** 关键思想是将基于图像的完全卷积网络结合起来基于视图的推理，具有基于表面的投影图层
+聚合多个视图的FCN输出和a基于表面的CRF有利于相干形状分割 <br>
+**category:** 深度学习算法：多视图网络
+缺点：2D投影可能会导致由于自我遮挡而导致的表面信息损失，而观点选择通常通过启发式方法进行
+对于给定的任务不一定是最佳的 <br>
+**Link:** <br>
+   <br>
+   
+**Number:** 69 <br>
+**Name:** Volumetric and Multi-View CNNs for Object Classification on 3D Data  <br>
+**Publication category:** IEEE <br>
+**Publication Name:** CVPR <br>
+**Issuing Time:** 2016 <br>
+**Contribution:** 提出两种新的体积结构CNNs,volumetric CNNs：MVCNN和 multi-view CNNs：MVCNN-MultiRe <br>
+**Difficulty:** 现有的体积CNN架构和方法无法充分利用3D表示的力量 <br>
+**Result:** 在ModelNet40数据集上MVCNN的ACA为86.0，MVCNN-MultiRe的ACA为85.6 <br>
+**category:** 深度学习算法：多视图网络
+缺点：2D投影可能会导致由于自我遮挡而导致的表面信息损失，而观点选择通常通过启发式方法进行
+对于给定的任务不一定是最佳的 <br>
+**Link:** <br>
+   <br>
+
+**Number:** 68 <br>
+**Name:** GIFT: A Real-time and Scalable 3D Shape Search Engine <br>
+**Publication category:** IEEE <br>
+**Publication Name:** CVPR <br>
+**Issuing Time:** 2016 <br>
+**Contribution:** 基于3D形状的投影图像的引擎，提出了一个实时3D形状搜索：GIFT <br>
+**Difficulty:** 多数基于投影的检索系统受到影响计算成本高，因此不能满足基本要求
+搜索引擎的可扩展性 <br>
+**Result:**  在ModelNet40数据集上，AUC为83.10%，MAP为81.94% <br>
+**category:** 深度学习算法：多视图网络
+缺点：2D投影可能会导致由于自我遮挡而导致的表面信息损失，而观点选择通常通过启发式方法进行
+对于给定的任务不一定是最佳的 <br>
+**Link:** <br>
+   <br>
+   
 **Number:** 67 <br>
 **Name:** SPLATNet: Sparse Lattice Networks for Point Cloud Processing <br>
 **Publication category:**  <br>
@@ -11,7 +106,7 @@
 总结了三维视觉的前人工作 <br>
 **Difficulty:** 直接应用在点云上 <br>
 **Result:** mIoU为83.7 <br>
-**category:** 基于二维RGB图像与三维点云学习  <br>
+**category:** 深度学习算法：基于二维RGB图像与三维点云学习  <br>
 **Link:** <br>
    <br>
 
