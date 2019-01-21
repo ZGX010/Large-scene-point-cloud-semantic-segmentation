@@ -1,5 +1,44 @@
 # Large-scene-point-cloud-semantic-segmentation
 ---
+##  Updata Time:2019_01_21
+
+**Number:** 67 <br>
+**Name:** SPLATNet: Sparse Lattice Networks for Point Cloud Processing <br>
+**Publication category:**  <br>
+**Publication Name:** CVPR 2018<br>
+**Issuing Time:** 2018 <br>
+**Contribution:** 提出了SPLATNet深度学习框架,
+总结了三维视觉的前人工作 <br>
+**Difficulty:** 直接应用在点云上 <br>
+**Result:** mIoU为83.7 <br>
+**category:** 基于二维RGB图像与三维点云学习  <br>
+**Link:** <br>
+   <br>
+
+**Number:** 66 <br>
+**Name:** SEMANTIC3D.NET: A NEW LARGE-SCALE POINT CLOUD CLASSIFICATION BENCHMARK <br>
+**Publication category:**  <br>
+**Publication Name:** arXiv preprint <br>
+**Issuing Time:** 2017_04_12 <br>
+**Contribution:** 提出了一种新的3D点云分类基准数据集 SEMANTIC3D.NET，其中包含超过40亿个手动标记点
+作为深度学习方法的输入 <br>
+**Difficulty:** 解决了语义分割或对象检测在图像中，由于缺乏训练数据带来的问题 <br>
+**category:** 数据集 <br>
+**Link:** <br>
+   <br>
+   
+**Number:** 65 <br>
+**Name:** ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes <br>
+**Publication category:** IEEE <br>
+**Publication Name:** CVPR 2017 <br>
+**Issuing Time:** 2017_07_01 <br>
+**Contribution:** 介绍了ScanNet神经网络架构，设计了
+易于使用且可扩展的RGB-D捕获系统这包括自动化表面重建和众包语义标注 <br>
+**Difficulty:** 在RGB-D场景理解的背景下，目前的数据集涵盖的数据非常少 <br>
+**category:** 神经网络算法 <br>
+**Link:** <br>
+   <br>
+   
 ##  Updata Time:2019_01_19
 **Number:** 64 <br>
 **Name:** 平面舱壁类型的船舱点云分割方法 <br>
