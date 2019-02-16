@@ -860,8 +860,8 @@ following an analysis-bysynthesis strategy
 对物体的表征能力也不同，对网络的泛化能力有一定的影响<br>
 **Result:**  在Semantic3D数据集中，mIOU为0.585，OA为0.889 <br>
 **Link:**  https://github.com/ZGX010/Large-scene-point-cloud-semantic-segmentation/blob/master/Paper_set/2019_01_11/Deep%20Projective%203D%20Semantic%20Segmentation.pdf  <br>
-**code：**  https://github.com/vlfeat/matconvnet <br>
-**Data: **  http://www.semantic3d.net/view_dbase.php?chl=1  <br>
+**code:** https://github.com/vlfeat/matconvnet <br>
+**Data:** Semantic3D:http://www.semantic3d.net/view_dbase.php?chl=1  <br>
   <br>
 
 **Number:** 05 <br>
@@ -885,6 +885,10 @@ following an analysis-bysynthesis strategy
 **Difficulty:** 对大规模点云还具有一定的局限性,不会捕获度量空间点引起的局部结构，限制了它识别细粒度模式的能力
 无法处理局部特征<br>
 **Result:**  在stanford 3D semantic parsing dataset上 mIoU为0.4771，OA为0.7862  <br>
+**Link:** https://github.com/ZGX010/Large-scene-point-cloud-semantic-segmentation/blob/master/Paper_set/2019_01_11/PointNet%20Deep%20Learning%20on%20Point%20Sets%20for%203D%20Classification%20and%20Segmentation.pdf <br>
+**code:** https://github.com/charlesq34/pointnet <br>
+**Data:**  ModelNet40: http://modelnet.cs.princeton.edu/ <br>
+
   <br>
 
 **Number:** 03 <br>
@@ -898,6 +902,13 @@ following an analysis-bysynthesis strategy
 **Difficulty:** 如何生成点集的分区，以及如何通过本地特征学习器抽象点集或局部特征
 点采样和分组策略没有揭示出入点云的空间分布<br>
 **Result:**  Scannet labeling accuracy 是0.833  <br>
+**Link:** https://github.com/ZGX010/Large-scene-point-cloud-semantic-segmentation/blob/master/Paper_set/2019_01_11/PointNet%2B%2B%20Deep%20Hierarchical%20Feature%20Learning%20on.pdf <br>
+**code:** https://github.com/charlesq34/pointnet2 <br>
+**Data:** ModelNet40: http://modelnet.cs.princeton.edu/
+MNIST :http://yann.lecun.com/exdb/mnist/
+SHREC15 :https://www.cs.cf.ac.uk/shaperetrieval/shrec15/index.html
+ScanNet :https://github.com/ScanNet/ScanNet <br>
+
   <br>
 
 **Number:**  02 <br>
