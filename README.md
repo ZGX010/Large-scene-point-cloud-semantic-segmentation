@@ -860,6 +860,8 @@ following an analysis-bysynthesis strategy
 对物体的表征能力也不同，对网络的泛化能力有一定的影响<br>
 **Result:**  在Semantic3D数据集中，mIOU为0.585，OA为0.889 <br>
 **Link:**  https://github.com/ZGX010/Large-scene-point-cloud-semantic-segmentation/blob/master/Paper_set/2019_01_11/Deep%20Projective%203D%20Semantic%20Segmentation.pdf  <br>
+**code：**  https://github.com/vlfeat/matconvnet <br>
+**Data: **  http://www.semantic3d.net/view_dbase.php?chl=1  <br>
   <br>
 
 **Number:** 05 <br>
