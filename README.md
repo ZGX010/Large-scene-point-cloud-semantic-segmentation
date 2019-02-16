@@ -855,12 +855,13 @@ following an analysis-bysynthesis strategy
 **Publication category:** <br>
 **Publication Name:** CAIP2017<br>
 **Issuing Time:** 2017_8_22 <br>
+**category:** 三维转二维，利用二维神经网络进行训练 <br>
 **Contribution:** 将点云组合到2D图像上，然后将这些图像用作到2D-CNN，提出DeePr3SS 调查了不同输入模态的影响，例如颜色，深度和表面法线<br>
 **Difficulty:** 这类方法会容易造成三维结构信息的丢失，而且投影角度的选取，同一角度的投影
 对物体的表征能力也不同，对网络的泛化能力有一定的影响<br>
 **Result:**  在Semantic3D数据集中，mIOU为0.585，OA为0.889 <br>
 **Link:**  https://github.com/ZGX010/Large-scene-point-cloud-semantic-segmentation/blob/master/Paper_set/2019_01_11/Deep%20Projective%203D%20Semantic%20Segmentation.pdf  <br>
-**code:** https://github.com/vlfeat/matconvnet <br>
+**code:** https://github.com/vlfeat/matconvnet (matlab代码) <br>
 **Data:** Semantic3D:http://www.semantic3d.net/view_dbase.php?chl=1  <br>
   <br>
 
