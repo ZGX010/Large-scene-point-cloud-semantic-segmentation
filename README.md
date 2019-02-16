@@ -859,7 +859,7 @@ following an analysis-bysynthesis strategy
 **Difficulty:** 这类方法会容易造成三维结构信息的丢失，而且投影角度的选取，同一角度的投影
 对物体的表征能力也不同，对网络的泛化能力有一定的影响<br>
 **Result:**  在Semantic3D数据集中，mIOU为0.585，OA为0.889 <br>
-**Lhttps://github.com/ZGX010/Large-scene-point-cloud-semantic-segmentation/blob/master/Paper_set/2019_01_11/Deep%20Projective%203D%20Semantic%20Segmentation.pdf
+**Link:**  https://github.com/ZGX010/Large-scene-point-cloud-semantic-segmentation/blob/master/Paper_set/2019_01_11/Deep%20Projective%203D%20Semantic%20Segmentation.pdf  <br>
   <br>
 
 **Number:** 05 <br>
